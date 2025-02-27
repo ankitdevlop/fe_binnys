@@ -1,7 +1,7 @@
 # MERN Stack Movie Application: Frontend
 
 ## Live Demo
-[Binny's Jewellery Movie App](https://binnysjewellery_fe.netlify.app/)
+[Binny's Jewellery Movie App](https://binnysjewelleryfe.netlify.app/)
 
 ## Objective
 Develop a frontend application for a movie web platform with user and admin functionalities, integrating authentication, authorization, and efficient data presentation.
