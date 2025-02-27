@@ -1,6 +1,5 @@
 {
   "name": "binnys_fe",
-  "proxy": "https://be-binnys.onrender.com/api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
