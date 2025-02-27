@@ -3,8 +3,8 @@ import { API_ENDPOINTS, METHOD_TYPE } from "./apiUrls";
 import { toast } from "react-toastify";
 
 const api = axios.create({
-  // baseURL: "https://event-management-platform-lkc9.onrender.com/api/", // Your API base URL
-    baseURL: "http://localhost:4000/api/", // Your Local API base URL
+  baseURL: "https://be-binnys.onrender.com/api/", // Your API base URL
+    // baseURL: "http://localhost:4000/api/", // Your Local API base URL
   headers: {
     "Content-Type": "application/json",
     // Add any common headers here
